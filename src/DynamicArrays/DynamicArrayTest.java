@@ -1,6 +1,7 @@
-package DynamicArray;
+package DynamicArrays;
 
-public class Main {
+public class DynamicArrayTest {
+
 	public static void main(String[] args) {
 		DynamicArray array = new DynamicArray(3);
 		System.out.println(array.getArray());
@@ -24,4 +25,5 @@ public class Main {
 		System.out.println(newArray + " " + newArray[1] + " " + array.getElement(1));
 		*/
 	}
+
 }

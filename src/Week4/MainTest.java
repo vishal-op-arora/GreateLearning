@@ -2,7 +2,7 @@ package Week4;
 
 import java.util.Scanner;
 
-public class Main {
+public class MainTest {
 
     Scanner sc = new Scanner(System.in);
 
@@ -66,7 +66,7 @@ public class Main {
 
     public static void main(String[] args) {
 
-        Main obj = new Main();
+        MainTest obj = new MainTest();
         int choice;
         Scanner sc = new Scanner(System.in);
 

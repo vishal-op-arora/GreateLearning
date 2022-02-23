@@ -1,6 +1,7 @@
-package DynamicArray;
+package DynamicArrays;
 
 public class DynamicArray {
+
 	
 	int size = 0;
 	int capacity = 0;
@@ -109,4 +110,5 @@ public class DynamicArray {
 		}
 		System.out.println();
 	}
+	
 }
