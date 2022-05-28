@@ -1,4 +1,4 @@
-package Week5;
+package com.greatlearning.ds.week5;
 
 public class TestClass {
 	public static void main(String[] args) {

@@ -1,4 +1,4 @@
-package Week5;
+package com.greatlearning.ds.week5;
 
 public class Student {
 	final String schoolName = "DSP";
